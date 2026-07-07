@@ -40,7 +40,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-[Download and watch kapture3.mp4](./kapture3.mp4)
+[Watch video](./kapture3.mp4)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
